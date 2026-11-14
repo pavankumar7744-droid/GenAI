@@ -1,0 +1,6 @@
+.env
+.venv/
+.week-2/
+__pycache__/
+*.pyc
+.pytest_cache/
